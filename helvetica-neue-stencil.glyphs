@@ -1,7 +1,6 @@
 {
 .appVersion = "85";
 DisplayStrings = (
-vpv1G,
 M,
 O,
 "Ó",
@@ -15,7 +14,8 @@ R,
 U,
 W,
 Z,
-"É"
+"É",
+vpv1G
 );
 copyright = "Copyright (c) 1981, 1982, 1983, 1989 and 1993, Linotype Library GmbH or its affiliated Linotype-Hell companies. All rights reserved.\012\012The digitally encoded machine readable software for producing the Typefaces licensed to you is now the property of Heidelberger Druckmaschinen AG and its licensors, and may not be reproduced, used, displayed, modified, disclosed or transferred without the express written approval of Heidelberger Druckmaschinen AG.\012\012Copyright (c) 1988, 1990, 1993 Adobe Systems Incorporated. All Rights Reserved.";
 customParameters = (
